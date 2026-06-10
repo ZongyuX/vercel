@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://700k.pages.dev/",
+      "destination": "https://promptpilot.bbroot.com/",
       "permanent": true
     }
   ]

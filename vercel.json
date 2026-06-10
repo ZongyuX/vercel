@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://700k.pages.dev/",
+      "permanent": true
+    }
+  ]
+}
